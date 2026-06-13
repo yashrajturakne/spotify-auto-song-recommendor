@@ -1,2 +1,2 @@
 # spotify-auto-song-recommendor
-spotify auo song reccomender
+spotify auto song reccomender
